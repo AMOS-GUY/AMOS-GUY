@@ -140,9 +140,8 @@ An infrastructure and networking project exploring VPN deployment, secure connec
 I'm interested in collaborating on projects involving software development, robotics, embedded systems, AI, and innovative technology.
 
 - 💻 GitHub: [@AMOS-GUY](https://github.com/AMOS-GUY)
-- 🌐 Portfolio: Add your personal portfolio website here.
-- 💼 LinkedIn: Add your LinkedIn profile here.
-- 📧 Email: Add your professional email here.
+- 🌐 Portfolio: COMING SOON!
+- 📧 Email: guyamos28@gmail.com
 
 ---
 
