@@ -8,9 +8,6 @@ I build practical technology at the intersection of **software engineering, embe
 
 I enjoy turning ideas into working projects, from full-stack web applications to microcontroller-based systems and intelligent solutions.
 
-[![GitHub followers](https://img.shields.io/github/followers/AMOS-GUY?style=for-the-badge&logo=github)](https://github.com/AMOS-GUY)
-[![GitHub Stars](https://img.shields.io/github/stars/AMOS-GUY?style=for-the-badge&logo=github)](https://github.com/AMOS-GUY?tab=repositories)
-
 </div>
 
 ---
