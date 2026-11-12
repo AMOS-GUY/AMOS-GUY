@@ -122,11 +122,14 @@ An infrastructure and networking project exploring VPN deployment, secure connec
 
 ## 📊 GitHub Statistics
 
+
+## 📊 GitHub Statistics
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMOS-GUY&show_icons=true&hide_border=true&theme=transparent)
+<img src="https://github-readme-stats.vercel.app/api?username=AMOS-GUY&show_icons=true&hide_border=true&theme=transparent" height="180" alt="Amos Guy's GitHub statistics" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMOS-GUY&layout=compact&hide_border=true&theme=transparent)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMOS-GUY&layout=compact&hide_border=true&theme=transparent" height="180" alt="Most used programming languages" />
 
 </div>
 
