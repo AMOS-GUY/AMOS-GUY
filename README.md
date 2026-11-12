@@ -120,18 +120,6 @@ An infrastructure and networking project exploring VPN deployment, secure connec
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AMOS-GUY&show_icons=true&theme=github_dark&hide_border=true" height="180" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMOS-GUY&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Top programming languages" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm interested in collaborating on projects involving software development, robotics, embedded systems, AI, and innovative technology.
